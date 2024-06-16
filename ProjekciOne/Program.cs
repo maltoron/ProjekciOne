@@ -50,3 +50,4 @@ namespace ProjekciOne
         
     }
 }
+// opakować instrukcjmi while i gotowe
